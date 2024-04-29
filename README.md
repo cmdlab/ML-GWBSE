@@ -1,5 +1,5 @@
 # ML-GWBSE
-Python codes to develop ML models using GW-BSE database (https://hydrogen.cmd.lab.asu.edu/) and applying it with Materials Project (https://next-gen.materialsproject.org/) data. 
+Python codes to develop ML models using our GW-BSE database (https://hydrogen.cmd.lab.asu.edu/) and applying it with Materials Project (https://next-gen.materialsproject.org/) data. 
 
 Description of files:
 
@@ -15,3 +15,4 @@ Description of files:
 ## Citation
 If you use these codes, please cite
 > T. Biswas, and A. K. Singh. "Incorporating quasiparticle and excitonic properties into material discovery." arXiv preprint arXiv:2401.17831 (2024).
+> T. Biswas, and A. K. Singh. "py GWBSE: a high throughput workflow package for GW-BSE calculations." npj Computational Materials 9.1, 22 (2023).
