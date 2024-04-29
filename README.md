@@ -14,5 +14,5 @@ Description of files:
 
 ## Citation
 If you use these codes, please cite
-> T. Biswas, and A. K. Singh. "Incorporating quasiparticle and excitonic properties into material discovery." arXiv preprint arXiv:2401.17831 (2024).
-> T. Biswas, and A. K. Singh. "py GWBSE: a high throughput workflow package for GW-BSE calculations." npj Computational Materials 9.1, 22 (2023).
+1. T. Biswas, and A. K. Singh. "Incorporating quasiparticle and excitonic properties into material discovery." arXiv preprint arXiv:2401.17831 (2024).
+2. T. Biswas, and A. K. Singh. "py GWBSE: a high throughput workflow package for GW-BSE calculations." npj Computational Materials 9.1, 22 (2023).
